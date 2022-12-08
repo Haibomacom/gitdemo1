@@ -8,3 +8,4 @@ git hot-fix-1   master test
 2305 by gg
 2337 by gg
 2346 by haiboma
+2353 git remote add ssh git@github.com:xxx/xxx.git by haiboma
